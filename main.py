@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-from skimage import io, transform
+from skimage import io, transform#PIL
 import glob
 import os
 import tensorflow as tf
