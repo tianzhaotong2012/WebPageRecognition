@@ -135,7 +135,7 @@ def minibatches(inputs=None, targets=None, batch_size=None, shuffle=False):
 # 训练和测试数据，可将n_epoch设置更大一些
 
 n_epoch = 10
-batch_size = 64
+batch_size = 10
 sess = tf.InteractiveSession()
 sess.run(tf.global_variables_initializer())
 for epoch in range(n_epoch):
