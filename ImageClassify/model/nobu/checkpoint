@@ -1,0 +1,4 @@
+model_checkpoint_path: "nobunaga_model-27"
+all_model_checkpoint_paths: "nobunaga_model-24"
+all_model_checkpoint_paths: "nobunaga_model-25"
+all_model_checkpoint_paths: "nobunaga_model-27"
